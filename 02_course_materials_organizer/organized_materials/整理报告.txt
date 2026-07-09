@@ -1,0 +1,22 @@
+本次执行方式：复制文件，原文件保留
+总共整理文件数量：9
+
+文件迁移明细：
+sample_materials\NumPy数组练习.ipynb  -->  organized_materials\homework\NumPy数组练习.ipynb
+sample_materials\Python第01讲_作业说明.pdf  -->  organized_materials\homework\Python第01讲_作业说明.pdf
+sample_materials\Python第01讲_基础语法.pptx  -->  organized_materials\slides\Python第01讲_基础语法.pptx
+sample_materials\Python第01讲_课堂代码.py  -->  organized_materials\code\Python第01讲_课堂代码.py
+sample_materials\学生问题记录.md  -->  organized_materials\documents\学生问题记录.md
+sample_materials\成绩样例.csv  -->  organized_materials\data\成绩样例.csv
+sample_materials\截图_环境配置.png  -->  organized_materials\images\截图_环境配置.png
+sample_materials\未分类文件.xyz  -->  organized_materials\others\未分类文件.xyz
+sample_materials\课程通知.txt  -->  organized_materials\documents\课程通知.txt
+
+各类文件统计：
+homework：2个
+slides：1个
+code：1个
+documents：2个
+data：1个
+images：1个
+others：1个
